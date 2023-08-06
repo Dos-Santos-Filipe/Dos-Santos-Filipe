@@ -20,4 +20,4 @@
   <a href="www.linkedin.com/in/dos-santos-filipe" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![snake gif](https://github.com/Dos-Santos-Filipe/Dos-Santos-Filipe/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Dos-Santos-Filipe/Dos-Santos-Filipe/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
