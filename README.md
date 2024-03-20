@@ -16,3 +16,7 @@
  <br>
 
 ![snake gif](https://github.com/Dos-Santos-Filipe/Dos-Santos-Filipe/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+
+<div align="center">
+  <img align="center" alt="Contador de visitas" src="https://profile-counter.glitch.me/Dos-Santos-Filipe/count.svg" />
+</div>
