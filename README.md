@@ -1,5 +1,13 @@
-### Welcome! 👋😊
+## Welcome to my Github profile! 👋😊
 
+## Sobre mim
+
+- 🤓 Amante da aprendizagem contínua, busco constantemente oportunidades para aprofundar meus conhecimentos e desenvolver soluções cada vez mais eficientes.
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas.
+- 👨‍💻 Sou aluno do DevQuest, um treinamento de Desenvolvimento Web Full Stack.
+- 🌱 Aprendendo mais sobre [Redux](https://redux.js.org/) atualmente.
+## 
+<br/>
 <div>
   <a href="https://github.com/Dos-Santos-Filipe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dos-Santos-Filipe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
