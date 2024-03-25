@@ -1,6 +1,9 @@
 # Welcome to my Github profile! 👋😊
+<p align="center">
+  Sou um Psicólogo em transição de carreira. Estou cursando Análise e Desenvolvimento de Sistemas e pretendo ser um desenvolvedor Full Stack. Sou apaixonado por tecnologia, comportamento humano e a interação humano-computador. Pretendo descobrir cada vez mais o que aproxima a Psicologia das Tecnologias da Informação.
+</p>
 
-## Sobre mim
+## 
 
 - 🤓 Amante da aprendizagem contínua, busco constantemente oportunidades para aprofundar meus conhecimentos e desenvolver soluções cada vez mais eficientes.
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas.
@@ -25,6 +28,7 @@
 
 ![snake gif](https://github.com/Dos-Santos-Filipe/Dos-Santos-Filipe/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
+##
 <div align="center">
   <img align="center" alt="Contador de visitas" src="https://profile-counter.glitch.me/Dos-Santos-Filipe/count.svg" />
 </div>
