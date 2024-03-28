@@ -3,6 +3,12 @@
   Sou um Psicólogo em transição de carreira. Estou cursando Análise e Desenvolvimento de Sistemas e pretendo ser um desenvolvedor Full Stack. Sou apaixonado por tecnologia, comportamento humano e a interação humano-computador. Pretendo descobrir cada vez mais o que aproxima a Psicologia das Tecnologias da Informação.
 </p>
 
+<br>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/dos-santos-filipe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+
 ## 
 
 - 🤓 Amante da aprendizagem contínua, busco constantemente oportunidades para aprofundar meus conhecimentos e desenvolver soluções cada vez mais eficientes.
