@@ -1,6 +1,6 @@
 # Welcome to my Github profile! 👋😊
 <p align="center">
-  Sou um Psicólogo em transição de carreira. Estou cursando Análise e Desenvolvimento de Sistemas e pretendo ser um desenvolvedor Full Stack. Sou apaixonado por tecnologia, comportamento humano e a interação humano-computador. Pretendo descobrir cada vez mais o que aproxima a Psicologia das Tecnologias da Informação.
+  Sou Desenvolvedor de Software e Psicólogo. Estou cursando Análise e Desenvolvimento de Sistemas e pretendo ser um desenvolvedor Full Stack. Sou apaixonado por tecnologia, comportamento humano e a interação humano-computador. Pretendo descobrir cada vez mais o que aproxima a Psicologia das Tecnologias da Informação.
 </p>
 
 <br>
