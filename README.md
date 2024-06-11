@@ -14,7 +14,7 @@
 - 🤓 Amante da aprendizagem contínua, busco constantemente oportunidades para aprofundar meus conhecimentos e desenvolver soluções cada vez mais eficientes.
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas.
 - 👨‍💻 Sou aluno do DevQuest, um treinamento de Desenvolvimento Web Full Stack.
-- 🌱 Aprendendo mais sobre [Redux](https://redux.js.org/) e Estrutura de Dados atualmente.
+- 🌱 Aprendendo mais sobre TypeScript e Estrutura de Dados atualmente.
 ## 
 <br/>
 <div>
